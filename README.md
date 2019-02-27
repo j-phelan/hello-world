@@ -1,2 +1,2 @@
 # hello-world
-Just another hello world
+My name is James and I like to skateboard.
